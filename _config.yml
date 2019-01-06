@@ -106,7 +106,7 @@ author:
     name             : "gnhk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher at IT company"
-  location         : "South Korea"
+  location         : # "South Korea"
   email            :
   links:
     - label: "Email"
